@@ -9,3 +9,5 @@ char period = '.';
 String teacher = "Mercer";
 String is = "is";
 String areYouSerious = "amazing";
+//
+println(mr, period, teacher, is, areYouSerious);
