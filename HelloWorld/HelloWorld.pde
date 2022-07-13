@@ -3,3 +3,9 @@
 println("Hello World");
 print("Mr. Mercer is amazing!");
 //
+// Concatenation
+String mr = "Mr";
+char period = '.';
+String teacher = "Mercer";
+String is = "is";
+String areYouSerious = "amazing";
